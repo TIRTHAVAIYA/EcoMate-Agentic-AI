@@ -1,7 +1,5 @@
 # 🌿 EcoMate – Agentic AI for Climate Action
 
-
-<img src="ecomate-banner.png" alt="EcoMate Banner" style="width:100%;"/>
 EcoMate is an agentic AI application designed to help users make environmentally conscious travel decisions by providing:
 
 - 🌦️ Real-time weather updates
